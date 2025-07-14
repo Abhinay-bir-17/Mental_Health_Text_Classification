@@ -1,3 +1,8 @@
+## 🖼 Streamlit Demo
+
+![Streamlit Demo](images/img1_overview.png)
+
+
 🧠 Mental Health Text Classification — Fine-Tuning BERT
 An end-to-end NLP project for detecting anxiety and depression in user-generated text using a fine-tuned BERT model. The project includes data cleaning, model training, evaluation, and deployment through a simple Streamlit web app.
 
