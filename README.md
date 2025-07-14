@@ -57,3 +57,6 @@ Deployment
 Deployed a Streamlit web app for real-time predictions
 
 Used the fine-tuned BERT model and the same preprocessing pipeline
+
+
+Dataset link: https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health

@@ -10,9 +10,9 @@ from nltk.corpus import stopwords
 nltk.download('stopwords')
 
 # load save model
-model = AutoModelForSequenceClassification.from_pretrained('saved_mental_status_bert')
-tokenizer = AutoTokenizer.from_pretrained('saved_mental_status_bert')
-label_encoder = pickle.load(open('label_encoder.pkl','rb'))
+model = AutoModelForSequenceClassification.from_pretrained('model/saved_mental_status_bert')
+tokenizer = AutoTokenizer.from_pretrained('model/saved_mental_status_bert')
+label_encoder = pickle.load(open('model/label_encoder.pkl','rb'))
 
 
 # custom function
